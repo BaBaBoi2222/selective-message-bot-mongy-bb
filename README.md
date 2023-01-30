@@ -36,4 +36,5 @@ for example: `scream GIGGLY BALLS`
 > GIGGLY BALLS
 
 ***You can read the comments in the code to customize the commands for your server*** 
+
 I think the code could have been written in a more efficient way but i just need this bot for simple purposes and it was just a fun project, have a nice day! :D
