@@ -1,6 +1,6 @@
 # selective-message-bot-mongy-bb
- Just a simple fun project, the code is not that good sorry i just wanted a simple bot
-## What can the bot do?
+ Just a simple fun project, the code is not that good sorry i just wanted a simple discord bot
+## What can the discord bot do?
 - Responds to specific keywords.
 - Deletes a message which does not have the keywords in it.
 - Deletes the messages if they are edited in a specific channel. (you can ignore a user from this)
